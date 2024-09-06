@@ -1,8 +1,9 @@
 # Projeto Imersão Alura-Gemini: Busca de Atletas Olímpicos
 
-## Descrição
+Este projeto foi desenvolvido durante a Imersão Dev Alura-Gemini, uma semana intensiva de estudos sobre HTML, CSS e JavaScript. O objetivo principal era aplicar os conhecimentos adquiridos na criação de uma aplicação web funcional e interativa.
 
-Este projeto foi desenvolvido durante a Imersão Alura-Gemini e tem como objetivo criar uma aplicação web simples para buscar informações sobre atletas olímpicos. A aplicação permite realizar buscas por nome e por tags associadas aos atletas, proporcionando uma experiência interativa para os usuários.
+## Descrição
+Com o intuito de consolidar os conceitos aprendidos, foi desenvolvida uma aplicação web para buscar informações sobre atletas olímpicos. A aplicação permite realizar buscas por nome e por tags associadas aos atletas, proporcionando uma experiência interativa para os usuários.
 
 ## Tecnologias Utilizadas
 
